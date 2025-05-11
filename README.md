@@ -20,7 +20,7 @@ possible.
 
 ### Installation
 
-1. Navigate to the [Releases]() page and download the latest release.
+1. Navigate to the [Releases](https://github.com/anguillifax/SyncTimesheet/releases) page and download the file `Synchronize Timesheet.jsx`.
 2. Open After Effects and install the script using `File > Scripts > Install Script File...`.
 3. Run the plugin using `File > Scripts > Synchronize Timesheet.jsx`.
 
